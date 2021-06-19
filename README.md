@@ -1,3 +1,3 @@
 # ChatApp
 
-Tarafımca EduLayer.net adresine eğitici kaynak olarak hazırlanmıştır.
+Tarafımca <a href="https://www.edulayer.net">EduLayer.net</a> adresine eğitici kaynak olarak hazırlanmıştır.
